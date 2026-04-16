@@ -1,0 +1,24 @@
+## Interface: 120000
+## Title: Aiko QoL
+## Notes: QoL utilities for Midnight (friendly nameplates, audio).
+## Author: Zagamant, Aiko
+## Version: 1.9.3
+## SavedVariables: AikoQoL_DB
+
+Locales/enUS.lua
+Locales/ruRU.lua
+
+Core/Bootstrap.lua
+Core/TableUtils.lua
+Core/PathUtils.lua
+Core/Defaults.lua
+Core/Repository.lua
+Core/ZoneService.lua
+Core/NameplateService.lua
+Core/AudioService.lua
+Core/NotificationService.lua
+Core/App.lua
+
+UI/SettingsDescriptors.lua
+UI/SettingsControls.lua
+UI/SettingsPanel.lua
